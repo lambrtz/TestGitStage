@@ -2,3 +2,4 @@ Initial commit.
 YOUR: Implementing a new feature. Done!
 MINE: Implementing a feature which consists of two parts.
 MINE: Implementing part 1.
+MINE: Implementing part 2. Done!
